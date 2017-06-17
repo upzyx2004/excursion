@@ -1,3 +1,26 @@
-html{
+body{
   background-color: black;
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h1{
+  font-size: 50px;
+  color: white;
+}
+
+h2{
+  font-size: 20px;
+  color: lightgreen;
+}
+
+h3{
+  font-size: 30px;
+  color: grey;
+}
+
+h4{
+  text-align: right;
+  font-size: 30px;
+  color: grey;
 }
